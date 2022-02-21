@@ -1,0 +1,13 @@
+{
+  "name": "ecotone/app",
+  "autoload": {
+    "psr-4": {
+      "Ecotone\\App\\": "src/"
+    }
+  },
+  "require": {
+      "ecotone/lite-application": "^1.0"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
